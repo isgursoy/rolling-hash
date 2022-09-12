@@ -29,8 +29,6 @@ You are there.
 
 #### Dependencies
 
-Given information is for Ubuntu 20.04. You should translate them to your distribution.
-
 | **Project**                 | **Where to get**                                                                   | **Notes**                |
 |:---------------------------:|:----------------------------------------------------------------------------------:|:-----------------------:|
 | ```RapidFuzz```  | [maxbachmann/rapidfuzz-cpp](https://github.com/maxbachmann/rapidfuzz-cpp/releases/tag/v1.2.0)              | **Included** amalgamated header. Needed for levenshtein edit ops to report add/remove/substitution details.
